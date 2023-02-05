@@ -1,6 +1,9 @@
 # sharedpreferences-with-activity
 Restoring Activity  through SharedPreferencesAfter Killed by System .
 
+Note that it's a Example not a hard project. if you are facing any problem regarding this project then feel free and open an issue.
+
+
 <h1><a href="">Watch Tutorial</a></h1>
 <p>do you want to Watch Practical Video <a href="">Click Here</a></p>
 
