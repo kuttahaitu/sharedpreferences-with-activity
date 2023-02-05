@@ -4,8 +4,8 @@ Restoring Activity  through SharedPreferences After Killed by System .
 Note that it's a Example not a hard project. if you are facing any problem regarding this project then feel free and open an issue.
 
 
-<h1><a href="">Watch Tutorial</a></h1>
-<p>do you want to Watch Practical Video <a href="">Click Here</a></p>
+<h1><a href="https://youtu.be/Xj2XOPPNvmw">Watch Tutorial</a></h1>
+<p>do you want to Watch Practical Video <a href="https://youtu.be/Xj2XOPPNvmw">Click Here</a></p>
 
 <h1><a href="https://github.com/kuttahaitu/sharedpreferences-with-activity/raw/main/debug.apk">Test Package</a></h1>
 
