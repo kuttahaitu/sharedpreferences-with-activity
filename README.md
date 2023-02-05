@@ -7,9 +7,9 @@ Note that it's a Example not a hard project. if you are facing any problem regar
 <h1><a href="">Watch Tutorial</a></h1>
 <p>do you want to Watch Practical Video <a href="">Click Here</a></p>
 
-<h1><a href="">Test Package</a></h1>
+<h1><a href="https://github.com/kuttahaitu/sharedpreferences-with-activity/raw/main/debug.apk">Test Package</a></h1>
 
-<p><a href="">Click here </a> & download Test Package</p>
+<p><a href="https://github.com/kuttahaitu/sharedpreferences-with-activity/raw/main/debug.apk">Click here </a> & download Test Package</p>
 
 <h1><a href="https://github.com/kuttahaitu/sharedpreferences-with-activity/archive/refs/heads/main.zip">Download Project</a></h1>
 
