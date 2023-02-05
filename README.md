@@ -1,5 +1,5 @@
 # <a href="https://github.com/kuttahaitu/sharedpreferences-with-activity">sharedpreferences-with-activity</a>
-Restoring Activity  through SharedPreferencesAfter Killed by System .
+Restoring Activity  through SharedPreferences After Killed by System .
 
 Note that it's a Example not a hard project. if you are facing any problem regarding this project then feel free and open an issue.
 
